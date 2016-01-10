@@ -1,0 +1,30 @@
+
+{
+  "app": {
+    "name": "SwiftSnapper",
+    "lang":  "hun_HU"
+  },
+
+  "views": {
+
+    "account": {
+      "logIn": "Bejelentkezés",
+      "signUp": "Regisztráció",
+
+      "logInView": {
+        "username": "Felhasználónév",
+        "password": "Jelszó",
+        "wrongUsernameOrPassword": "Hibás felhasználónév vagy jelszó!",
+        "userNotValid": "Nem valós felhasználónév!"
+      }
+    },
+
+    "overview": {
+
+    },
+
+    "settings": {
+
+    }
+  }
+}
